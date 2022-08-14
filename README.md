@@ -14,7 +14,7 @@
 </div>
 
 ---
-### :man_technologist: About Me :
+### :man_technologist: Немного обо мне:
 
 Веб разработчик <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="40"> из России.
 
@@ -49,8 +49,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=engineerfoma&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engineerfoma&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **engineerfoma/engineerfoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
