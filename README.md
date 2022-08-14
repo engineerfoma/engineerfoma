@@ -6,7 +6,6 @@
   </h1>
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="400"/>
   <div id="badges">
-    <img src="https://komarev.com/ghpvc/?username=engineerfoma&;style=flat-square&color=blue" alt="counter" align="left"/>
     <a href="https://t.me/fomenko_nick">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge" align="left"/>
     </a>
@@ -50,6 +49,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=engineerfoma&ring=ffa500&fire=aa4203&currStreakLabel=54aeff)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engineerfoma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/engineerfoma/badges/micro)](https://www.codewars.com/users/engineerfoma)
+<img src="https://komarev.com/ghpvc/?username=engineerfoma&;style=flat-square&color=blue" alt="counter" align="left"/>
 
 <!--
 **engineerfoma/engineerfoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
