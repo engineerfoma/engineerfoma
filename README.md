@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <h1>
-    Рад видеть тебя на моей странице!
+    Рад видеть тебя на моём профиле!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="400"/>
@@ -47,9 +47,9 @@
 
 ### :fire: Статистика :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=engineerfoma&hide_border=true&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=engineerfoma&ring=ffa500&fire=aa4203&currStreakLabel=54aeff)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engineerfoma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **engineerfoma/engineerfoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
